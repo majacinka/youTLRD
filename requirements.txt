@@ -1,5 +1,4 @@
-youtube-transcript-api
-load_summarize_chain
+
 pytube
 streamlit
 google-api-python-client
