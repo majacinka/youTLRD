@@ -1,4 +1,4 @@
-
+youtube-transcript-api
 pytube
 streamlit
 google-api-python-client
