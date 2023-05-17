@@ -4,4 +4,5 @@ streamlit
 google-api-python-client
 pandas
 openai
+tiktoken
 git+https://github.com/hwchase17/langchain#egg=langchain
