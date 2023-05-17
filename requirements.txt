@@ -1,0 +1,7 @@
+youtube-transcript-api
+pytube
+streamlit
+google-api-python-client
+pandas
+openai
+git+https://github.com/hwchase17/langchain#egg=langchain
